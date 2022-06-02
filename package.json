@@ -1,0 +1,14 @@
+{
+  "name": "cog1_js_template",
+  "version": "1.0.0",
+  "description": "Computergrafik 1",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d . -b master --repo https://github.com/erikbrodmann/CG_M4"
+  },
+  "author": "Erik Brodmann",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
